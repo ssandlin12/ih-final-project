@@ -41,7 +41,3 @@ Please read [CONTRIBUTING.md](link to your contributing guidelines) for details 
 ## License
 
 This project is licensed under the [Insert license] - see the [LICENSE.md](link to your license) file for details
-
----
-
-Again, remember to replace placeholders (like links or license type) with your actual information.
